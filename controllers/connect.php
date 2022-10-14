@@ -6,7 +6,7 @@
 $nombreServidor = 'localhost';
 $nombreUsuario= 'root';
 $clave= '';
-$nombreBaseDatos= 'miproyecto';
+$nombreBaseDatos= 'MiProyecto';
 
 //variable para conexion a db
 
